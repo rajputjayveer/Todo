@@ -126,10 +126,3 @@ Key features of this README:
 6. VS Code extension recommendations for better DX
 7. Responsive design mention for mobile users
 
-You can customize these sections further:
-- Add screenshots/video demo links
-- Include performance metrics
-- Add contribution guidelines
-- Provide link to live demo
-- Add API documentation if connected to backend
-
